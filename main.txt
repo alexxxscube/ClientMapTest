@@ -3,3 +3,5 @@ print;
 end;
 write message;
 print "bye";
+print "hello my frend";
+print "all them";
