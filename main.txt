@@ -1,5 +1,5 @@
-print
-"hello world"
-end
-write message
-print "bye"
+print;
+"hello world";
+end;
+write message;
+print "bye";
