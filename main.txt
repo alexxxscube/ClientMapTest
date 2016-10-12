@@ -2,3 +2,4 @@ print
 "hello world"
 end
 write message
+print "bye"
